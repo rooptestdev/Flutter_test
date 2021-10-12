@@ -1,6 +1,6 @@
 // Copyright 2018 The Flutter team. All rights reserved.
 // Use of this source code is governed by a BSD-style license that can be
-//  I am going to add something new here will it be added to git
+//  Will it still work
 
 import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
